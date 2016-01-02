@@ -1,0 +1,38 @@
+/********* Color Scheme ********/
+/********* Complementary Color Scheme **********/
+/*** Implementation ***/
+.one {
+  color: #663333;
+}
+.two {
+  color: #336666;
+}
+.three {
+  color: #2b5555;
+}
+.four {
+  color: #994d4d;
+}
+.five {
+  color: #bb7777;
+}
+/****************************************/
+/********* Subtle Color Scheme **********/
+/*** Implementation */
+.one {
+  color: #663333;
+}
+.two {
+  color: #884a44;
+}
+.three {
+  color: #aa6355;
+}
+.four {
+  color: #442225;
+}
+.five {
+  color: #221114;
+}
+/****************************************/
+/********* Mixin *********/
